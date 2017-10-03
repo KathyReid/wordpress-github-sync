@@ -1,6 +1,11 @@
 ---
-post_title: 'This page is about bananas'
+ID: 55456
+post_title: This page is about bananas
+author: admin
+post_excerpt: ""
 layout: page
+permalink: >
+  http://blog.kathyreid.id.au/?page_id=55456
 published: false
 ---
 # This is some dummy markdown text to simulate how WordPress will import MarkDown.
