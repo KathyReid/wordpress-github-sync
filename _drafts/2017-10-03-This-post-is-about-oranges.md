@@ -1,6 +1,10 @@
 ---
-post_title: 'This post is about oranges'
+ID: 55453
+post_title: This post is about oranges
+author: admin
+post_excerpt: ""
 layout: post
+permalink: http://blog.kathyreid.id.au/?p=55453
 published: false
 ---
 # This is some dummy markdown text to simulate how WordPress will import MarkDown.
